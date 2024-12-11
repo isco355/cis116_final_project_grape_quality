@@ -1,0 +1,2 @@
+https://matplotlib.org/stable/gallery/style_sheets/style_sheets_reference.html#sphx-glr-gallery-style-sheets-style-sheets-reference-py
+https://github.com/lgienapp/aquarel
